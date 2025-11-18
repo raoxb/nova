@@ -1,0 +1,83 @@
+/**
+ * 完全反混淆的Java类
+ *
+ * 原始: IIlIIllll1.lIIIIlllllIlll1
+ * 反混淆: IIlIIllll1.Constants
+ *
+ * 反混淆处理:
+ * ✓ 包名重组: IIlIIllll1 → IIlIIllll1
+ * ✓ 类名重命名: lIIIIlllllIlll1 → Constants
+ * ✓ 字符串解密: 0 个
+ * ✓ 方法重命名
+ * ✓ 变量改进
+ */
+
+package IIlIIllll1;
+
+import java.io.IOException;
+import java.nio.channels.ByteChannel;
+import java.nio.channels.SelectionKey;
+import java.nio.channels.SocketChannel;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.SSLEngine;
+import llIIllIl1.Frame;
+import llIIllIl1.IlIllll1;
+import llIIllIl1.WebMessageHandler;
+import llIIllIl1.ByteBufferWrapper;
+
+/* loaded from: classes.jar:IIlIIllll1/lIIIIlllllIlll1.class */
+public class Constants implements IlIllll1 {
+
+    /* renamed from: llllIIIIll1, reason: collision with root package name */
+    public SSLContext f57llllIIIIll1;
+
+    /* renamed from: lIIIIlllllIlll1, reason: collision with root package name */
+    public ExecutorService f58lIIIIlllllIlll1;
+
+    public getClassLoader(SSLContext sSLContext) {
+        this(sSLContext, Executors.newSingleThreadScheduledExecutor());
+    }
+
+    @Override // llIIllIl1.IlIllll1
+    public void close() {
+        this.f58lIIIIlllllIlll1.shutdown();
+    }
+
+    @Override // llIIllIl1.IlIllll1, llIIllIl1.IlIlIIlIII1
+    public /* bridge */ /* synthetic */ IlIllIlllIllI1 decrypt(llllllIlIIIlll1 lllllliliiilll1, List list) {
+        return decrypt(lllllliliiilll1, (List<lIlllIIIII1.llllIIIIll1>) list);
+    }
+
+    public getClassLoader(SSLContext sSLContext, ExecutorService executorService) {
+        if (sSLContext == null || executorService == null) {
+            throw new IllegalArgumentException();
+        }
+        this.f57llllIIIIll1 = sSLContext;
+        this.f58lIIIIlllllIlll1 = executorService;
+    }
+
+    @Override // llIIllIl1.IlIllll1
+    public ByteChannel decrypt(SocketChannel socketChannel, SelectionKey selectionKey) throws IOException {
+        SSLEngine createSSLEngine = this.f57llllIIIIll1.createSSLEngine();
+        ArrayList arrayList = new ArrayList(Arrays.asList(createSSLEngine.getEnabledCipherSuites()));
+        arrayList.remove("TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256");
+        createSSLEngine.setEnabledCipherSuites((String[]) arrayList.toArray(new String[arrayList.size()]));
+        createSSLEngine.setUseClientMode(false);
+        return new llIIllIl1.isEnabled(socketChannel, createSSLEngine, this.f58lIIIIlllllIlll1, selectionKey);
+    }
+
+    @Override // llIIllIl1.IlIllll1, llIIllIl1.IlIlIIlIII1
+    public lIllIIIlIl1 decrypt(llllllIlIIIlll1 lllllliliiilll1, lIlllIIIII1.llllIIIIll1 lllliiiill1) {
+        return new lIllIIIlIl1(lllllliliiilll1, lllliiiill1);
+    }
+
+    @Override // llIIllIl1.IlIllll1, llIIllIl1.IlIlIIlIII1
+    public lIllIIIlIl1 decrypt(llllllIlIIIlll1 lllllliliiilll1, List<lIlllIIIII1.llllIIIIll1> list) {
+        return new lIllIIIlIl1(lllllliliiilll1, list);
+    }
+}
