@@ -11,7 +11,7 @@ python3 getconfig.py
 ```
 
 - 使用 AES 加密（正确的 MD5 key）
-- 完整实现 Java 客户端的加密逻辑
+- 直接发送请求并返回结果
 - ✅ 已验证返回 200
 
 ## 备选：简单版本
@@ -30,25 +30,17 @@ python3 getconfig_simple.py
 
 ## 作为库使用
 
-### 加密版本
+### 加密版本（推荐）
 ```python
-from getconfig import DllpgdClient
+from getconfig import get_config
 
-# 发送请求
-request_data = DllpgdClient.create_getconfig_request(device_id="your_device")
-request_bytes, _ = DllpgdClient.call_api_encrypt(request_data)
+# 直接发送请求
+success, status_code, data = get_config(device_id="your_device")
 
-import requests
-response = requests.post(
-    "https://dllpgd.click/api/v1/dllpgd/getConfig",
-    headers={"Content-Type": "application/json", "User-Agent": "DllpgdLiteClient/2.0"},
-    data=request_bytes
-)
-
-# 解密响应
-if response.status_code == 200:
-    result = DllpgdClient.call_api_decrypt(response.content)
-    print(result)
+if success:
+    print(f"Session ID: {data['dllpgdConfig']['sessionId']}")
+else:
+    print(f"失败: {data['error']}")
 ```
 
 ### 简单版本

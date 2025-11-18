@@ -194,95 +194,62 @@ class DllpgdClient:
         return {"atom": atom}
 
 
-def test_encryption_roundtrip():
-    """测试加密/解密是否正确"""
-    print("🔐 测试加密/解密功能...\n")
+def get_config(device_id=None, timeout=10):
+    """
+    发送 getConfig 请求
 
-    # 显示 AES key
-    key_bytes = DllpgdClient.get_aes_key_bytes()
-    print(f"AES Key (MD5 of 'GreenDay'): {key_bytes.decode('utf-8')}")
-    print(f"Key length: {len(key_bytes)} bytes\n")
+    返回: (success: bool, status_code: int, data: dict)
+    """
+    import requests
 
-    test_obj = {
-        "atom": {
-            "deviceId": "test_device_123",
-            "version": 208
-        }
+    url = f"{DllpgdClient.SERVER_URL}/api/v1/dllpgd/getConfig"
+    headers = {
+        "Content-Type": "application/json",
+        "User-Agent": DllpgdClient.USER_AGENT,
     }
 
-    print(f"原始对象: {json.dumps(test_obj)}")
-
-    # 加密
-    request_bytes, encrypted_string = DllpgdClient.call_api_encrypt(test_obj)
-    print(f"\n加密结果 ({len(encrypted_string)} 字符):")
-    print(f"{encrypted_string[:80]}...")
-
-    # 解密
-    decrypted_obj = DllpgdClient.call_api_decrypt(request_bytes)
-    print(f"\n解密结果: {json.dumps(decrypted_obj)}")
-
-    if test_obj == decrypted_obj:
-        print("\n✅ 加密/解密测试通过！")
-        return True
-    else:
-        print("\n❌ 加密/解密测试失败！")
-        return False
-
-
-def simulate_getconfig_request(device_id=None, print_details=True):
-    """模拟 getConfig 请求"""
+    # 创建并加密请求
     request_data = DllpgdClient.create_getconfig_request(device_id)
-    request_bytes, encrypted_string = DllpgdClient.call_api_encrypt(request_data)
+    request_bytes, _ = DllpgdClient.call_api_encrypt(request_data)
 
-    if print_details:
-        print("=" * 70)
-        print("📡 getConfig API 请求模拟 (正确加密)")
-        print("=" * 70)
+    try:
+        response = requests.post(url, headers=headers, data=request_bytes, timeout=timeout)
 
-        print("\n【1】原始请求数据:")
-        print(json.dumps(request_data, indent=2, ensure_ascii=False)[:300] + "...")
+        if response.status_code == 200:
+            # 解密响应
+            decrypted = DllpgdClient.call_api_decrypt(response.content)
+            return True, response.status_code, decrypted
+        else:
+            return False, response.status_code, {"error": response.text}
 
-        print(f"\n【2】加密后 ({len(request_bytes)} bytes):")
-        print(f"{encrypted_string[:100]}...")
-
-        print("\n【3】Python requests 示例:")
-        print(f"""
-import requests
-
-url = "https://dllpgd.click/api/v1/dllpgd/getConfig"
-headers = {{
-    "Content-Type": "application/json",
-    "User-Agent": "DllpgdLiteClient/2.0",
-}}
-
-request_bytes = b'{encrypted_string[:50]}...'
-
-response = requests.post(url, headers=headers, data=request_bytes, timeout=10)
-
-if response.status_code == 200:
-    decrypted = DllpgdClient.call_api_decrypt(response.content)
-    print(decrypted)
-""")
-
-        print("=" * 70)
-
-    return request_data, request_bytes, encrypted_string
+    except Exception as e:
+        return False, 0, {"error": str(e)}
 
 
 if __name__ == "__main__":
-    print("DllpgdLiteClient - getConfig 请求模拟器 (正确加密版本)")
     print("=" * 70)
-    print("🔑 关键修复: 使用 MD5('GreenDay').upper() 作为 AES key\n")
+    print("📡 DllpgdLiteClient - getConfig API")
+    print("=" * 70)
 
-    # 测试加密/解密
-    if not test_encryption_roundtrip():
-        print("\n⚠️  加密/解密测试失败！")
-        exit(1)
+    # 生成设备 ID
+    device_id = "android_device_" + uuid.uuid4().hex[:12]
+    print(f"\n设备 ID: {device_id}")
+    print("发送请求中...")
+
+    # 发送请求
+    success, status_code, data = get_config(device_id)
+
+    print(f"\n状态码: {status_code}")
+
+    if success:
+        print("✅ 请求成功！")
+        print(f"\n响应数据:")
+        print(json.dumps(data, indent=2, ensure_ascii=False))
+
+        if "dllpgdConfig" in data and "sessionId" in data["dllpgdConfig"]:
+            print(f"\n✅ Session ID: {data['dllpgdConfig']['sessionId']}")
+    else:
+        print("❌ 请求失败")
+        print(f"错误: {data.get('error', 'Unknown error')}")
 
     print("\n" + "=" * 70)
-
-    # 生成请求
-    device_id = "android_device_" + uuid.uuid4().hex[:12]
-    simulate_getconfig_request(device_id, print_details=True)
-
-    print("\n✅ 现在使用正确的 AES key，服务器应该能解密请求！")
