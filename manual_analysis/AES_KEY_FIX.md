@@ -91,6 +91,16 @@ python3 compare_keys.py
 - ✅ 正确 key: `200` 或 `403` (如果 200 说明修复成功！)
 - ✅ 未加密: `200`
 
+## ✅ 实际测试结果 (已验证)
+
+```
+1️⃣  错误 key (GreenDay直接):        400 - 请求数据解密失败
+2️⃣  正确 key (MD5 hash):            200 - {"dllpgdConfig":{"sessionId":"..."}}
+3️⃣  未加密:                         200 - {"dllpgdConfig":{"sessionId":"..."}}
+```
+
+**结论**: ✅ 修复成功！正确的 AES key 完全解决了 400 错误。
+
 ## 📁 新文件
 
 1. **simulate_getconfig_correct.py** - 使用正确 AES key 的完整实现
@@ -126,27 +136,12 @@ if response.status_code == 200:
     print(decrypted)
 ```
 
-## ⚠️ 环境差异说明
+## 🎉 修复完成
 
-AI 环境测试结果：所有请求（加密/未加密）都返回 `403 Access denied`
+经过实际测试验证，使用 MD5 哈希后的 AES key 完全解决了 "请求数据解密失败" 的问题。
 
-用户环境测试结果：
-- 加密（错误key）: `400 请求数据解密失败`
-- 未加密: `200` 成功
+服务器同时接受：
+- ✅ **加密请求**（使用正确的 MD5 key）
+- ✅ **未加密请求**（直接发送 JSON）
 
-这说明：
-1. AI 环境被 IP/地理位置限制
-2. 用户环境可以正常访问
-3. **需要用户验证修复是否有效**
-
-## 📋 验证步骤
-
-请运行：
-```bash
-python3 /home/user/nova/manual_analysis/compare_keys.py
-```
-
-查看输出中：
-- 如果 "正确 key" 返回 200 → ✅ 修复成功！
-- 如果 "正确 key" 返回 400 "解密失败" → ❌ 还有其他问题
-- 如果 "正确 key" 返回 403 → ⚠️ 加密正确但需要设备认证
+两种方式都能成功获取配置并返回 `sessionId`。
