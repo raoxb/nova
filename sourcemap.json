@@ -1,0 +1,5450 @@
+{
+  "classes": {
+    "IlIllIlllIllI1.llllIIIIll1": {
+      "package": "IlIllIlllIllI1",
+      "class": "llllIIIIll1",
+      "full_name": "IlIllIlllIllI1.llllIIIIll1",
+      "file_path": "/IlIllIlllIllI1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IlIllIlllIllI1.lIIIIlllllIlll1": {
+      "package": "IlIllIlllIllI1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "IlIllIlllIllI1.lIIIIlllllIlll1",
+      "file_path": "/IlIllIlllIllI1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIIlIlIlll1.IIlIllIIll1": {
+      "package": "IlIlIIIlIlIlll1",
+      "class": "IIlIllIIll1",
+      "full_name": "IlIlIIIlIlIlll1.IIlIllIIll1",
+      "file_path": "/IlIlIIIlIlIlll1/IIlIllIIll1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIIlIlIlll1.lIllIIIlIl1": {
+      "package": "IlIlIIIlIlIlll1",
+      "class": "lIllIIIlIl1",
+      "full_name": "IlIlIIIlIlIlll1.lIllIIIlIl1",
+      "file_path": "/IlIlIIIlIlIlll1/lIllIIIlIl1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIIlIlIlll1.IlIllIlllIllI1": {
+      "package": "IlIlIIIlIlIlll1",
+      "class": "IlIllIlllIllI1",
+      "full_name": "IlIlIIIlIlIlll1.IlIllIlllIllI1",
+      "file_path": "/IlIlIIIlIlIlll1/IlIllIlllIllI1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIIlIlIlll1.llllIIIIll1": {
+      "package": "IlIlIIIlIlIlll1",
+      "class": "llllIIIIll1",
+      "full_name": "IlIlIIIlIlIlll1.llllIIIIll1",
+      "file_path": "/IlIlIIIlIlIlll1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIIlIlIlll1.llllllIlIIIlll1": {
+      "package": "IlIlIIIlIlIlll1",
+      "class": "llllllIlIIIlll1",
+      "full_name": "IlIlIIIlIlIlll1.llllllIlIIIlll1",
+      "file_path": "/IlIlIIIlIlIlll1/llllllIlIIIlll1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIIlIlIlll1.lIIIIlllllIlll1": {
+      "package": "IlIlIIIlIlIlll1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "IlIlIIIlIlIlll1.lIIIIlllllIlll1",
+      "file_path": "/IlIlIIIlIlIlll1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIIlIlIlll1.llllIllIl1": {
+      "package": "IlIlIIIlIlIlll1",
+      "class": "llllIllIl1",
+      "full_name": "IlIlIIIlIlIlll1.llllIllIl1",
+      "file_path": "/IlIlIIIlIlIlll1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIIlIlIlll1.IlIlllIIlI1": {
+      "package": "IlIlIIIlIlIlll1",
+      "class": "IlIlllIIlI1",
+      "full_name": "IlIlIIIlIlIlll1.IlIlllIIlI1",
+      "file_path": "/IlIlIIIlIlIlll1/IlIlllIIlI1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIIlIlIlll1.IlIlIIlIII1": {
+      "package": "IlIlIIIlIlIlll1",
+      "class": "IlIlIIlIII1",
+      "full_name": "IlIlIIIlIlIlll1.IlIlIIlIII1",
+      "file_path": "/IlIlIIIlIlIlll1/IlIlIIlIII1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIIlIlIlll1.IllIIlIIII1": {
+      "package": "IlIlIIIlIlIlll1",
+      "class": "IllIIlIIII1",
+      "full_name": "IlIlIIIlIlIlll1.IllIIlIIII1",
+      "file_path": "/IlIlIIIlIlIlll1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIlIlIlIII1.llllIIIIll1": {
+      "package": "IlIIIlIlIlIII1",
+      "class": "llllIIIIll1",
+      "full_name": "IlIIIlIlIlIII1.llllIIIIll1",
+      "file_path": "/IlIIIlIlIlIII1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIlIlIlIII1.lIIIIlllllIlll1": {
+      "package": "IlIIIlIlIlIII1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "IlIIIlIlIlIII1.lIIIIlllllIlll1",
+      "file_path": "/IlIIIlIlIlIII1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIlIlIlIII1.llllIllIl1": {
+      "package": "IlIIIlIlIlIII1",
+      "class": "llllIllIl1",
+      "full_name": "IlIIIlIlIlIII1.llllIllIl1",
+      "file_path": "/IlIIIlIlIlIII1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIlIlIlIII1.IllIIlIIII1": {
+      "package": "IlIIIlIlIlIII1",
+      "class": "IllIIlIIII1",
+      "full_name": "IlIIIlIlIlIII1.IllIIlIIII1",
+      "file_path": "/IlIIIlIlIlIII1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "lIIIIlllllIlll1.llllIIIIll1": {
+      "package": "lIIIIlllllIlll1",
+      "class": "llllIIIIll1",
+      "full_name": "lIIIIlllllIlll1.llllIIIIll1",
+      "file_path": "/lIIIIlllllIlll1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "lIIIIlllllIlll1.lIIIIlllllIlll1": {
+      "package": "lIIIIlllllIlll1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "lIIIIlllllIlll1.lIIIIlllllIlll1",
+      "file_path": "/lIIIIlllllIlll1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "lIIIIlllllIlll1.llllIllIl1": {
+      "package": "lIIIIlllllIlll1",
+      "class": "llllIllIl1",
+      "full_name": "lIIIIlllllIlll1.llllIllIl1",
+      "file_path": "/lIIIIlllllIlll1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "lIIIIlllllIlll1.IllIIlIIII1": {
+      "package": "lIIIIlllllIlll1",
+      "class": "IllIIlIIII1",
+      "full_name": "lIIIIlllllIlll1.IllIIlIIII1",
+      "file_path": "/lIIIIlllllIlll1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "lIllIlIll1.lIllIIIlIl1": {
+      "package": "lIllIlIll1",
+      "class": "lIllIIIlIl1",
+      "full_name": "lIllIlIll1.lIllIIIlIl1",
+      "file_path": "/lIllIlIll1/lIllIIIlIl1.java",
+      "is_obfuscated": true
+    },
+    "lIllIlIll1.IlIllIlllIllI1": {
+      "package": "lIllIlIll1",
+      "class": "IlIllIlllIllI1",
+      "full_name": "lIllIlIll1.IlIllIlllIllI1",
+      "file_path": "/lIllIlIll1/IlIllIlllIllI1.java",
+      "is_obfuscated": true
+    },
+    "lIllIlIll1.llllIIIIll1": {
+      "package": "lIllIlIll1",
+      "class": "llllIIIIll1",
+      "full_name": "lIllIlIll1.llllIIIIll1",
+      "file_path": "/lIllIlIll1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "lIllIlIll1.llllllIlIIIlll1": {
+      "package": "lIllIlIll1",
+      "class": "llllllIlIIIlll1",
+      "full_name": "lIllIlIll1.llllllIlIIIlll1",
+      "file_path": "/lIllIlIll1/llllllIlIIIlll1.java",
+      "is_obfuscated": true
+    },
+    "lIllIlIll1.lIIIIlllllIlll1": {
+      "package": "lIllIlIll1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "lIllIlIll1.lIIIIlllllIlll1",
+      "file_path": "/lIllIlIll1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "lIllIlIll1.llllIllIl1": {
+      "package": "lIllIlIll1",
+      "class": "llllIllIl1",
+      "full_name": "lIllIlIll1.llllIllIl1",
+      "file_path": "/lIllIlIll1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "lIllIlIll1.IlIlllIIlI1": {
+      "package": "lIllIlIll1",
+      "class": "IlIlllIIlI1",
+      "full_name": "lIllIlIll1.IlIlllIIlI1",
+      "file_path": "/lIllIlIll1/IlIlllIIlI1.java",
+      "is_obfuscated": true
+    },
+    "lIllIlIll1.IlIlIIlIII1": {
+      "package": "lIllIlIll1",
+      "class": "IlIlIIlIII1",
+      "full_name": "lIllIlIll1.IlIlIIlIII1",
+      "file_path": "/lIllIlIll1/IlIlIIlIII1.java",
+      "is_obfuscated": true
+    },
+    "lIllIlIll1.IllIIlIIII1": {
+      "package": "lIllIlIll1",
+      "class": "IllIIlIIII1",
+      "full_name": "lIllIlIll1.IllIIlIIII1",
+      "file_path": "/lIllIlIll1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "IllIlIllll1.IIlIllIIll1": {
+      "package": "IllIlIllll1",
+      "class": "IIlIllIIll1",
+      "full_name": "IllIlIllll1.IIlIllIIll1",
+      "file_path": "/IllIlIllll1/IIlIllIIll1.java",
+      "is_obfuscated": true
+    },
+    "IllIlIllll1.lIllIIIlIl1": {
+      "package": "IllIlIllll1",
+      "class": "lIllIIIlIl1",
+      "full_name": "IllIlIllll1.lIllIIIlIl1",
+      "file_path": "/IllIlIllll1/lIllIIIlIl1.java",
+      "is_obfuscated": true
+    },
+    "IllIlIllll1.IlIllIlllIllI1": {
+      "package": "IllIlIllll1",
+      "class": "IlIllIlllIllI1",
+      "full_name": "IllIlIllll1.IlIllIlllIllI1",
+      "file_path": "/IllIlIllll1/IlIllIlllIllI1.java",
+      "is_obfuscated": true
+    },
+    "IllIlIllll1.llllIIIIll1": {
+      "package": "IllIlIllll1",
+      "class": "llllIIIIll1",
+      "full_name": "IllIlIllll1.llllIIIIll1",
+      "file_path": "/IllIlIllll1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IllIlIllll1.llllllIlIIIlll1": {
+      "package": "IllIlIllll1",
+      "class": "llllllIlIIIlll1",
+      "full_name": "IllIlIllll1.llllllIlIIIlll1",
+      "file_path": "/IllIlIllll1/llllllIlIIIlll1.java",
+      "is_obfuscated": true
+    },
+    "IllIlIllll1.lIIIIlllllIlll1": {
+      "package": "IllIlIllll1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "IllIlIllll1.lIIIIlllllIlll1",
+      "file_path": "/IllIlIllll1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "IllIlIllll1.llllIllIl1": {
+      "package": "IllIlIllll1",
+      "class": "llllIllIl1",
+      "full_name": "IllIlIllll1.llllIllIl1",
+      "file_path": "/IllIlIllll1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "IllIlIllll1.IlIlllIIlI1": {
+      "package": "IllIlIllll1",
+      "class": "IlIlllIIlI1",
+      "full_name": "IllIlIllll1.IlIlllIIlI1",
+      "file_path": "/IllIlIllll1/IlIlllIIlI1.java",
+      "is_obfuscated": true
+    },
+    "IllIlIllll1.IlIlIIlIII1": {
+      "package": "IllIlIllll1",
+      "class": "IlIlIIlIII1",
+      "full_name": "IllIlIllll1.IlIlIIlIII1",
+      "file_path": "/IllIlIllll1/IlIlIIlIII1.java",
+      "is_obfuscated": true
+    },
+    "IllIlIllll1.IllIIlIIII1": {
+      "package": "IllIlIllll1",
+      "class": "IllIIlIIII1",
+      "full_name": "IllIlIllll1.IllIIlIIII1",
+      "file_path": "/IllIlIllll1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "IIlIIllll1.llllIIIIll1": {
+      "package": "IIlIIllll1",
+      "class": "llllIIIIll1",
+      "full_name": "IIlIIllll1.llllIIIIll1",
+      "file_path": "/IIlIIllll1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IIlIIllll1.lIIIIlllllIlll1": {
+      "package": "IIlIIllll1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "IIlIIllll1.lIIIIlllllIlll1",
+      "file_path": "/IIlIIllll1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "IIlIIllll1.llllIllIl1": {
+      "package": "IIlIIllll1",
+      "class": "llllIllIl1",
+      "full_name": "IIlIIllll1.llllIllIl1",
+      "file_path": "/IIlIIllll1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "IIlIIllll1.IlIlllIIlI1": {
+      "package": "IIlIIllll1",
+      "class": "IlIlllIIlI1",
+      "full_name": "IIlIIllll1.IlIlllIIlI1",
+      "file_path": "/IIlIIllll1/IlIlllIIlI1.java",
+      "is_obfuscated": true
+    },
+    "IIlIIllll1.IllIIlIIII1": {
+      "package": "IIlIIllll1",
+      "class": "IllIIlIIII1",
+      "full_name": "IIlIIllll1.IllIIlIIII1",
+      "file_path": "/IIlIIllll1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "IlIlllIIlI1.lIIIIlllllIlll1": {
+      "package": "IlIlllIIlI1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "IlIlllIIlI1.lIIIIlllllIlll1",
+      "file_path": "/IlIlllIIlI1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "IlIlllIIlI1.llllIllIl1": {
+      "package": "IlIlllIIlI1",
+      "class": "llllIllIl1",
+      "full_name": "IlIlllIIlI1.llllIllIl1",
+      "file_path": "/IlIlllIIlI1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "IllIIlIIII1.llllIIIIll1": {
+      "package": "IllIIlIIII1",
+      "class": "llllIIIIll1",
+      "full_name": "IllIIlIIII1.llllIIIIll1",
+      "file_path": "/IllIIlIIII1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIlIII1.llllIIIIll1": {
+      "package": "IlIlIIlIII1",
+      "class": "llllIIIIll1",
+      "full_name": "IlIlIIlIII1.llllIIIIll1",
+      "file_path": "/IlIlIIlIII1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIlIII1.lIIIIlllllIlll1": {
+      "package": "IlIlIIlIII1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "IlIlIIlIII1.lIIIIlllllIlll1",
+      "file_path": "/IlIlIIlIII1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIlIII1.llllIllIl1": {
+      "package": "IlIlIIlIII1",
+      "class": "llllIllIl1",
+      "full_name": "IlIlIIlIII1.llllIllIl1",
+      "file_path": "/IlIlIIlIII1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "IlIlIIlIII1.IllIIlIIII1": {
+      "package": "IlIlIIlIII1",
+      "class": "IllIIlIIII1",
+      "full_name": "IlIlIIlIII1.IllIIlIIII1",
+      "file_path": "/IlIlIIlIII1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "lllIlIIIlI1.llllIIIIll1": {
+      "package": "lllIlIIIlI1",
+      "class": "llllIIIIll1",
+      "full_name": "lllIlIIIlI1.llllIIIIll1",
+      "file_path": "/lllIlIIIlI1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "lllIlIIIlI1.lIIIIlllllIlll1": {
+      "package": "lllIlIIIlI1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "lllIlIIIlI1.lIIIIlllllIlll1",
+      "file_path": "/lllIlIIIlI1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "lllIlIlllI1.lIllIIIlIl1": {
+      "package": "lllIlIlllI1",
+      "class": "lIllIIIlIl1",
+      "full_name": "lllIlIlllI1.lIllIIIlIl1",
+      "file_path": "/lllIlIlllI1/lIllIIIlIl1.java",
+      "is_obfuscated": true
+    },
+    "lllIlIlllI1.IlIllIlllIllI1": {
+      "package": "lllIlIlllI1",
+      "class": "IlIllIlllIllI1",
+      "full_name": "lllIlIlllI1.IlIllIlllIllI1",
+      "file_path": "/lllIlIlllI1/IlIllIlllIllI1.java",
+      "is_obfuscated": true
+    },
+    "lllIlIlllI1.llllIIIIll1": {
+      "package": "lllIlIlllI1",
+      "class": "llllIIIIll1",
+      "full_name": "lllIlIlllI1.llllIIIIll1",
+      "file_path": "/lllIlIlllI1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "lllIlIlllI1.llllllIlIIIlll1": {
+      "package": "lllIlIlllI1",
+      "class": "llllllIlIIIlll1",
+      "full_name": "lllIlIlllI1.llllllIlIIIlll1",
+      "file_path": "/lllIlIlllI1/llllllIlIIIlll1.java",
+      "is_obfuscated": true
+    },
+    "lllIlIlllI1.lIIIIlllllIlll1": {
+      "package": "lllIlIlllI1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "lllIlIlllI1.lIIIIlllllIlll1",
+      "file_path": "/lllIlIlllI1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "lllIlIlllI1.llllIllIl1": {
+      "package": "lllIlIlllI1",
+      "class": "llllIllIl1",
+      "full_name": "lllIlIlllI1.llllIllIl1",
+      "file_path": "/lllIlIlllI1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "lllIlIlllI1.IlIlllIIlI1": {
+      "package": "lllIlIlllI1",
+      "class": "IlIlllIIlI1",
+      "full_name": "lllIlIlllI1.IlIlllIIlI1",
+      "file_path": "/lllIlIlllI1/IlIlllIIlI1.java",
+      "is_obfuscated": true
+    },
+    "lllIlIlllI1.IlIlIIlIII1": {
+      "package": "lllIlIlllI1",
+      "class": "IlIlIIlIII1",
+      "full_name": "lllIlIlllI1.IlIlIIlIII1",
+      "file_path": "/lllIlIlllI1/IlIlIIlIII1.java",
+      "is_obfuscated": true
+    },
+    "lllIlIlllI1.IllIIlIIII1": {
+      "package": "lllIlIlllI1",
+      "class": "IllIIlIIII1",
+      "full_name": "lllIlIlllI1.IllIIlIIII1",
+      "file_path": "/lllIlIlllI1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIIllllIlI1.IIlIllIIll1": {
+      "package": "IlIIIIllllIlI1",
+      "class": "IIlIllIIll1",
+      "full_name": "IlIIIIllllIlI1.IIlIllIIll1",
+      "file_path": "/IlIIIIllllIlI1/IIlIllIIll1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIIllllIlI1.lIllIIIlIl1": {
+      "package": "IlIIIIllllIlI1",
+      "class": "lIllIIIlIl1",
+      "full_name": "IlIIIIllllIlI1.lIllIIIlIl1",
+      "file_path": "/IlIIIIllllIlI1/lIllIIIlIl1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIIllllIlI1.IlIllIlllIllI1": {
+      "package": "IlIIIIllllIlI1",
+      "class": "IlIllIlllIllI1",
+      "full_name": "IlIIIIllllIlI1.IlIllIlllIllI1",
+      "file_path": "/IlIIIIllllIlI1/IlIllIlllIllI1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIIllllIlI1.llllIIIIll1": {
+      "package": "IlIIIIllllIlI1",
+      "class": "llllIIIIll1",
+      "full_name": "IlIIIIllllIlI1.llllIIIIll1",
+      "file_path": "/IlIIIIllllIlI1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIIllllIlI1.llllllIlIIIlll1": {
+      "package": "IlIIIIllllIlI1",
+      "class": "llllllIlIIIlll1",
+      "full_name": "IlIIIIllllIlI1.llllllIlIIIlll1",
+      "file_path": "/IlIIIIllllIlI1/llllllIlIIIlll1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIIllllIlI1.lIIIIlllllIlll1": {
+      "package": "IlIIIIllllIlI1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "IlIIIIllllIlI1.lIIIIlllllIlll1",
+      "file_path": "/IlIIIIllllIlI1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIIllllIlI1.llllIllIl1": {
+      "package": "IlIIIIllllIlI1",
+      "class": "llllIllIl1",
+      "full_name": "IlIIIIllllIlI1.llllIllIl1",
+      "file_path": "/IlIIIIllllIlI1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIIllllIlI1.IlIlllIIlI1": {
+      "package": "IlIIIIllllIlI1",
+      "class": "IlIlllIIlI1",
+      "full_name": "IlIIIIllllIlI1.IlIlllIIlI1",
+      "file_path": "/IlIIIIllllIlI1/IlIlllIIlI1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIIllllIlI1.IlIlIIlIII1": {
+      "package": "IlIIIIllllIlI1",
+      "class": "IlIlIIlIII1",
+      "full_name": "IlIIIIllllIlI1.IlIlIIlIII1",
+      "file_path": "/IlIIIIllllIlI1/IlIlIIlIII1.java",
+      "is_obfuscated": true
+    },
+    "IlIIIIllllIlI1.IllIIlIIII1": {
+      "package": "IlIIIIllllIlI1",
+      "class": "IllIIlIIII1",
+      "full_name": "IlIIIIllllIlI1.IllIIlIIII1",
+      "file_path": "/IlIIIIllllIlI1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "c13.nim5.ez8.h5_proto.UpdateEventRequest": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "UpdateEventRequest",
+      "full_name": "c13.nim5.ez8.h5_proto.UpdateEventRequest",
+      "file_path": "/c13/nim5/ez8/h5_proto/UpdateEventRequest.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.PluginInfo": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "PluginInfo",
+      "full_name": "c13.nim5.ez8.h5_proto.PluginInfo",
+      "file_path": "/c13/nim5/ez8/h5_proto/PluginInfo.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.LocalPluginInfo": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "LocalPluginInfo",
+      "full_name": "c13.nim5.ez8.h5_proto.LocalPluginInfo",
+      "file_path": "/c13/nim5/ez8/h5_proto/LocalPluginInfo.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.Vector2": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "Vector2",
+      "full_name": "c13.nim5.ez8.h5_proto.Vector2",
+      "file_path": "/c13/nim5/ez8/h5_proto/Vector2.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.H5Lite": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "H5Lite",
+      "full_name": "c13.nim5.ez8.h5_proto.H5Lite",
+      "file_path": "/c13/nim5/ez8/h5_proto/H5Lite.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.DeviceInfo": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "DeviceInfo",
+      "full_name": "c13.nim5.ez8.h5_proto.DeviceInfo",
+      "file_path": "/c13/nim5/ez8/h5_proto/DeviceInfo.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.DllpgdLiteSDK": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "DllpgdLiteSDK",
+      "full_name": "c13.nim5.ez8.h5_proto.DllpgdLiteSDK",
+      "file_path": "/c13/nim5/ez8/h5_proto/DllpgdLiteSDK.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.Log": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "Log",
+      "full_name": "c13.nim5.ez8.h5_proto.Log",
+      "file_path": "/c13/nim5/ez8/h5_proto/Log.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.UpdateLogRequest": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "UpdateLogRequest",
+      "full_name": "c13.nim5.ez8.h5_proto.UpdateLogRequest",
+      "file_path": "/c13/nim5/ez8/h5_proto/UpdateLogRequest.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.Event": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "Event",
+      "full_name": "c13.nim5.ez8.h5_proto.Event",
+      "file_path": "/c13/nim5/ez8/h5_proto/Event.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.GetConfigResponse": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "GetConfigResponse",
+      "full_name": "c13.nim5.ez8.h5_proto.GetConfigResponse",
+      "file_path": "/c13/nim5/ez8/h5_proto/GetConfigResponse.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.JsonObjectUtils": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "JsonObjectUtils",
+      "full_name": "c13.nim5.ez8.h5_proto.JsonObjectUtils",
+      "file_path": "/c13/nim5/ez8/h5_proto/JsonObjectUtils.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.CommonRequest": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "CommonRequest",
+      "full_name": "c13.nim5.ez8.h5_proto.CommonRequest",
+      "file_path": "/c13/nim5/ez8/h5_proto/CommonRequest.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.HttpGatewayClient": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "HttpGatewayClient",
+      "full_name": "c13.nim5.ez8.h5_proto.HttpGatewayClient",
+      "file_path": "/c13/nim5/ez8/h5_proto/HttpGatewayClient.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.Atom": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "Atom",
+      "full_name": "c13.nim5.ez8.h5_proto.Atom",
+      "file_path": "/c13/nim5/ez8/h5_proto/Atom.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.CommonResponse": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "CommonResponse",
+      "full_name": "c13.nim5.ez8.h5_proto.CommonResponse",
+      "file_path": "/c13/nim5/ez8/h5_proto/CommonResponse.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.DllpgdConfig": {
+      "package": "c13.nim5.ez8.h5_proto",
+      "class": "DllpgdConfig",
+      "full_name": "c13.nim5.ez8.h5_proto.DllpgdConfig",
+      "file_path": "/c13/nim5/ez8/h5_proto/DllpgdConfig.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.Error": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "Error",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.Error",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/Error.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.UpdateSignalingStatusResponse": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "UpdateSignalingStatusResponse",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.UpdateSignalingStatusResponse",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/UpdateSignalingStatusResponse.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.CheckSignalingPluginStartResponse": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "CheckSignalingPluginStartResponse",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.CheckSignalingPluginStartResponse",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/CheckSignalingPluginStartResponse.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.ScrollEvent": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "ScrollEvent",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.ScrollEvent",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/ScrollEvent.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.Pong": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "Pong",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.Pong",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/Pong.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.UpdateSignalingStatusRequest": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "UpdateSignalingStatusRequest",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.UpdateSignalingStatusRequest",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/UpdateSignalingStatusRequest.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.CheckSignalingPluginStartRequest": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "CheckSignalingPluginStartRequest",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.CheckSignalingPluginStartRequest",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/CheckSignalingPluginStartRequest.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.SDPAnswer": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "SDPAnswer",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.SDPAnswer",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/SDPAnswer.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.TextInput": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "TextInput",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.TextInput",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/TextInput.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.SignalingRequest": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "SignalingRequest",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.SignalingRequest",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/SignalingRequest.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.ConnectionStatus": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "ConnectionStatus",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.ConnectionStatus",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/ConnectionStatus.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.Ping": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "Ping",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.Ping",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/Ping.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.ICECandidate": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "ICECandidate",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.ICECandidate",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/ICECandidate.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.Done": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "Done",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.Done",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/Done.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.ControlCommand": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "ControlCommand",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.ControlCommand",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/ControlCommand.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.SignalingResponse": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "SignalingResponse",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.SignalingResponse",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/SignalingResponse.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.SDPOffer": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "SDPOffer",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.SDPOffer",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/SDPOffer.java",
+      "is_obfuscated": false
+    },
+    "c13.nim5.ez8.h5_proto.signaling.ClickEvent": {
+      "package": "c13.nim5.ez8.h5_proto.signaling",
+      "class": "ClickEvent",
+      "full_name": "c13.nim5.ez8.h5_proto.signaling.ClickEvent",
+      "file_path": "/c13/nim5/ez8/h5_proto/signaling/ClickEvent.java",
+      "is_obfuscated": false
+    },
+    "llIlIIlll1.llllIIIIll1": {
+      "package": "llIlIIlll1",
+      "class": "llllIIIIll1",
+      "full_name": "llIlIIlll1.llllIIIIll1",
+      "file_path": "/llIlIIlll1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "llIIllIl1.IIlIllIIll1": {
+      "package": "llIIllIl1",
+      "class": "IIlIllIIll1",
+      "full_name": "llIIllIl1.IIlIllIIll1",
+      "file_path": "/llIIllIl1/IIlIllIIll1.java",
+      "is_obfuscated": true
+    },
+    "llIIllIl1.lIllIIIlIl1": {
+      "package": "llIIllIl1",
+      "class": "lIllIIIlIl1",
+      "full_name": "llIIllIl1.lIllIIIlIl1",
+      "file_path": "/llIIllIl1/lIllIIIlIl1.java",
+      "is_obfuscated": true
+    },
+    "llIIllIl1.IlIllIlllIllI1": {
+      "package": "llIIllIl1",
+      "class": "IlIllIlllIllI1",
+      "full_name": "llIIllIl1.IlIllIlllIllI1",
+      "file_path": "/llIIllIl1/IlIllIlllIllI1.java",
+      "is_obfuscated": true
+    },
+    "llIIllIl1.llllIIIIll1": {
+      "package": "llIIllIl1",
+      "class": "llllIIIIll1",
+      "full_name": "llIIllIl1.llllIIIIll1",
+      "file_path": "/llIIllIl1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "llIIllIl1.llllllIlIIIlll1": {
+      "package": "llIIllIl1",
+      "class": "llllllIlIIIlll1",
+      "full_name": "llIIllIl1.llllllIlIIIlll1",
+      "file_path": "/llIIllIl1/llllllIlIIIlll1.java",
+      "is_obfuscated": true
+    },
+    "llIIllIl1.lIIIIlllllIlll1": {
+      "package": "llIIllIl1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "llIIllIl1.lIIIIlllllIlll1",
+      "file_path": "/llIIllIl1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "llIIllIl1.llllIllIl1": {
+      "package": "llIIllIl1",
+      "class": "llllIllIl1",
+      "full_name": "llIIllIl1.llllIllIl1",
+      "file_path": "/llIIllIl1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "llIIllIl1.lllllIllIl1": {
+      "package": "llIIllIl1",
+      "class": "lllllIllIl1",
+      "full_name": "llIIllIl1.lllllIllIl1",
+      "file_path": "/llIIllIl1/lllllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "llIIllIl1.IlIllll1": {
+      "package": "llIIllIl1",
+      "class": "IlIllll1",
+      "full_name": "llIIllIl1.IlIllll1",
+      "file_path": "/llIIllIl1/IlIllll1.java",
+      "is_obfuscated": true
+    },
+    "llIIllIl1.IlIlllIIlI1": {
+      "package": "llIIllIl1",
+      "class": "IlIlllIIlI1",
+      "full_name": "llIIllIl1.IlIlllIIlI1",
+      "file_path": "/llIIllIl1/IlIlllIIlI1.java",
+      "is_obfuscated": true
+    },
+    "llIIllIl1.IlIlIIlIII1": {
+      "package": "llIIllIl1",
+      "class": "IlIlIIlIII1",
+      "full_name": "llIIllIl1.IlIlIIlIII1",
+      "file_path": "/llIIllIl1/IlIlIIlIII1.java",
+      "is_obfuscated": true
+    },
+    "llIIllIl1.IllIIlIIII1": {
+      "package": "llIIllIl1",
+      "class": "IllIIlIIII1",
+      "full_name": "llIIllIl1.IllIIlIIII1",
+      "file_path": "/llIIllIl1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "lllllIllIl1.llllIIIIll1": {
+      "package": "lllllIllIl1",
+      "class": "llllIIIIll1",
+      "full_name": "lllllIllIl1.llllIIIIll1",
+      "file_path": "/lllllIllIl1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "lllllIllIl1.lIIIIlllllIlll1": {
+      "package": "lllllIllIl1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "lllllIllIl1.lIIIIlllllIlll1",
+      "file_path": "/lllllIllIl1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "lllllIllIl1.llllIllIl1": {
+      "package": "lllllIllIl1",
+      "class": "llllIllIl1",
+      "full_name": "lllllIllIl1.llllIllIl1",
+      "file_path": "/lllllIllIl1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "lllllIllIl1.IllIIlIIII1": {
+      "package": "lllllIllIl1",
+      "class": "IllIIlIIII1",
+      "full_name": "lllllIllIl1.IllIIlIIII1",
+      "file_path": "/lllllIllIl1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "lIlllIIIII1.llllIIIIll1": {
+      "package": "lIlllIIIII1",
+      "class": "llllIIIIll1",
+      "full_name": "lIlllIIIII1.llllIIIIll1",
+      "file_path": "/lIlllIIIII1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "lIlllIIIII1.lIIIIlllllIlll1": {
+      "package": "lIlllIIIII1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "lIlllIIIII1.lIIIIlllllIlll1",
+      "file_path": "/lIlllIIIII1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "llllIIIIll1.llllIIIIll1": {
+      "package": "llllIIIIll1",
+      "class": "llllIIIIll1",
+      "full_name": "llllIIIIll1.llllIIIIll1",
+      "file_path": "/llllIIIIll1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "llllIIIIll1.lIIIIlllllIlll1": {
+      "package": "llllIIIIll1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "llllIIIIll1.lIIIIlllllIlll1",
+      "file_path": "/llllIIIIll1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.IIlIllIIll1": {
+      "package": "lIllIIIlIl1",
+      "class": "IIlIllIIll1",
+      "full_name": "lIllIIIlIl1.IIlIllIIll1",
+      "file_path": "/lIllIIIlIl1/IIlIllIIll1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.lIllIIIlIl1": {
+      "package": "lIllIIIlIl1",
+      "class": "lIllIIIlIl1",
+      "full_name": "lIllIIIlIl1.lIllIIIlIl1",
+      "file_path": "/lIllIIIlIl1/lIllIIIlIl1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.IlIllIlllIllI1": {
+      "package": "lIllIIIlIl1",
+      "class": "IlIllIlllIllI1",
+      "full_name": "lIllIIIlIl1.IlIllIlllIllI1",
+      "file_path": "/lIllIIIlIl1/IlIllIlllIllI1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.llllIIIIll1": {
+      "package": "lIllIIIlIl1",
+      "class": "llllIIIIll1",
+      "full_name": "lIllIIIlIl1.llllIIIIll1",
+      "file_path": "/lIllIIIlIl1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.IlIIlllllI1": {
+      "package": "lIllIIIlIl1",
+      "class": "IlIIlllllI1",
+      "full_name": "lIllIIIlIl1.IlIIlllllI1",
+      "file_path": "/lIllIIIlIl1/IlIIlllllI1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.llIIllIl1": {
+      "package": "lIllIIIlIl1",
+      "class": "llIIllIl1",
+      "full_name": "lIllIIIlIl1.llIIllIl1",
+      "file_path": "/lIllIIIlIl1/llIIllIl1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.llllllIlIIIlll1": {
+      "package": "lIllIIIlIl1",
+      "class": "llllllIlIIIlll1",
+      "full_name": "lIllIIIlIl1.llllllIlIIIlll1",
+      "file_path": "/lIllIIIlIl1/llllllIlIIIlll1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.IlIlIIIlIlIlll1": {
+      "package": "lIllIIIlIl1",
+      "class": "IlIlIIIlIlIlll1",
+      "full_name": "lIllIIIlIl1.IlIlIIIlIlIlll1",
+      "file_path": "/lIllIIIlIl1/IlIlIIIlIlIlll1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.lIIIIlllllIlll1": {
+      "package": "lIllIIIlIl1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "lIllIIIlIl1.lIIIIlllllIlll1",
+      "file_path": "/lIllIIIlIl1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.llllIllIl1": {
+      "package": "lIllIIIlIl1",
+      "class": "llllIllIl1",
+      "full_name": "lIllIIIlIl1.llllIllIl1",
+      "file_path": "/lIllIIIlIl1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.llIIIIlIlllIII1": {
+      "package": "lIllIIIlIl1",
+      "class": "llIIIIlIlllIII1",
+      "full_name": "lIllIIIlIl1.llIIIIlIlllIII1",
+      "file_path": "/lIllIIIlIl1/llIIIIlIlllIII1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.lllllIllIl1": {
+      "package": "lIllIIIlIl1",
+      "class": "lllllIllIl1",
+      "full_name": "lIllIIIlIl1.lllllIllIl1",
+      "file_path": "/lIllIIIlIl1/lllllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.IlIllll1": {
+      "package": "lIllIIIlIl1",
+      "class": "IlIllll1",
+      "full_name": "lIllIIIlIl1.IlIllll1",
+      "file_path": "/lIllIIIlIl1/IlIllll1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.IlIlllIIlI1": {
+      "package": "lIllIIIlIl1",
+      "class": "IlIlllIIlI1",
+      "full_name": "lIllIIIlIl1.IlIlllIIlI1",
+      "file_path": "/lIllIIIlIl1/IlIlllIIlI1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.lllIlIIIlI1": {
+      "package": "lIllIIIlIl1",
+      "class": "lllIlIIIlI1",
+      "full_name": "lIllIIIlIl1.lllIlIIIlI1",
+      "file_path": "/lIllIIIlIl1/lllIlIIIlI1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.IIIlIllIlI1": {
+      "package": "lIllIIIlIl1",
+      "class": "IIIlIllIlI1",
+      "full_name": "lIllIIIlIl1.IIIlIllIlI1",
+      "file_path": "/lIllIIIlIl1/IIIlIllIlI1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.lIllIlIll1": {
+      "package": "lIllIIIlIl1",
+      "class": "lIllIlIll1",
+      "full_name": "lIllIIIlIl1.lIllIlIll1",
+      "file_path": "/lIllIIIlIl1/lIllIlIll1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.IlIlIIlIII1": {
+      "package": "lIllIIIlIl1",
+      "class": "IlIlIIlIII1",
+      "full_name": "lIllIIIlIl1.IlIlIIlIII1",
+      "file_path": "/lIllIIIlIl1/IlIlIIlIII1.java",
+      "is_obfuscated": true
+    },
+    "lIllIIIlIl1.IllIIlIIII1": {
+      "package": "lIllIIIlIl1",
+      "class": "IllIIlIIII1",
+      "full_name": "lIllIIIlIl1.IllIIlIIII1",
+      "file_path": "/lIllIIIlIl1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "IIIlIllIlI1.lIllIIIlIl1": {
+      "package": "IIIlIllIlI1",
+      "class": "lIllIIIlIl1",
+      "full_name": "IIIlIllIlI1.lIllIIIlIl1",
+      "file_path": "/IIIlIllIlI1/lIllIIIlIl1.java",
+      "is_obfuscated": true
+    },
+    "IIIlIllIlI1.IlIllIlllIllI1": {
+      "package": "IIIlIllIlI1",
+      "class": "IlIllIlllIllI1",
+      "full_name": "IIIlIllIlI1.IlIllIlllIllI1",
+      "file_path": "/IIIlIllIlI1/IlIllIlllIllI1.java",
+      "is_obfuscated": true
+    },
+    "IIIlIllIlI1.llllIIIIll1": {
+      "package": "IIIlIllIlI1",
+      "class": "llllIIIIll1",
+      "full_name": "IIIlIllIlI1.llllIIIIll1",
+      "file_path": "/IIIlIllIlI1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IIIlIllIlI1.llllllIlIIIlll1": {
+      "package": "IIIlIllIlI1",
+      "class": "llllllIlIIIlll1",
+      "full_name": "IIIlIllIlI1.llllllIlIIIlll1",
+      "file_path": "/IIIlIllIlI1/llllllIlIIIlll1.java",
+      "is_obfuscated": true
+    },
+    "IIIlIllIlI1.lIIIIlllllIlll1": {
+      "package": "IIIlIllIlI1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "IIIlIllIlI1.lIIIIlllllIlll1",
+      "file_path": "/IIIlIllIlI1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "IIIlIllIlI1.llllIllIl1": {
+      "package": "IIIlIllIlI1",
+      "class": "llllIllIl1",
+      "full_name": "IIIlIllIlI1.llllIllIl1",
+      "file_path": "/IIIlIllIlI1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "IIIlIllIlI1.IlIlllIIlI1": {
+      "package": "IIIlIllIlI1",
+      "class": "IlIlllIIlI1",
+      "full_name": "IIIlIllIlI1.IlIlllIIlI1",
+      "file_path": "/IIIlIllIlI1/IlIlllIIlI1.java",
+      "is_obfuscated": true
+    },
+    "IIIlIllIlI1.IlIlIIlIII1": {
+      "package": "IIIlIllIlI1",
+      "class": "IlIlIIlIII1",
+      "full_name": "IIIlIllIlI1.IlIlIIlIII1",
+      "file_path": "/IIIlIllIlI1/IlIlIIlIII1.java",
+      "is_obfuscated": true
+    },
+    "IIIlIllIlI1.IllIIlIIII1": {
+      "package": "IIIlIllIlI1",
+      "class": "IllIIlIIII1",
+      "full_name": "IIIlIllIlI1.IllIIlIIII1",
+      "file_path": "/IIIlIllIlI1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "lIIlllIIIlllII1.llllIIIIll1": {
+      "package": "lIIlllIIIlllII1",
+      "class": "llllIIIIll1",
+      "full_name": "lIIlllIIIlllII1.llllIIIIll1",
+      "file_path": "/lIIlllIIIlllII1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "lIIlllIIIlllII1.lIIIIlllllIlll1": {
+      "package": "lIIlllIIIlllII1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "lIIlllIIIlllII1.lIIIIlllllIlll1",
+      "file_path": "/lIIlllIIIlllII1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "lIIlllIIIlllII1.llllIllIl1": {
+      "package": "lIIlllIIIlllII1",
+      "class": "llllIllIl1",
+      "full_name": "lIIlllIIIlllII1.llllIllIl1",
+      "file_path": "/lIIlllIIIlllII1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "lIIlllIIIlllII1.IllIIlIIII1": {
+      "package": "lIIlllIIIlllII1",
+      "class": "IllIIlIIII1",
+      "full_name": "lIIlllIIIlllII1.IllIIlIIII1",
+      "file_path": "/lIIlllIIIlllII1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "IIlIllIIll1.llllIIIIll1": {
+      "package": "IIlIllIIll1",
+      "class": "llllIIIIll1",
+      "full_name": "IIlIllIIll1.llllIIIIll1",
+      "file_path": "/IIlIllIIll1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IlIlllIIlI1.llllIIIIll1": {
+      "package": "string_resolver",
+      "class": "Constants",
+      "full_name": "string_resolver.Constants",
+      "file_path": "/string_resolver/Constants.java",
+      "is_obfuscated": false
+    },
+    "IlIlllIIlI1.IllIIlIIII1": {
+      "package": "string_resolver",
+      "class": "ObfuscatedStringResolver",
+      "full_name": "string_resolver.ObfuscatedStringResolver",
+      "file_path": "/string_resolver/ObfuscatedStringResolver.java",
+      "is_obfuscated": false
+    },
+    "IllllIllllll1.llllIIIIll1": {
+      "package": "IllllIllllll1",
+      "class": "llllIIIIll1",
+      "full_name": "IllllIllllll1.llllIIIIll1",
+      "file_path": "/IllllIllllll1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IIlllllIlll1.llllIIIIll1": {
+      "package": "IIlllllIlll1",
+      "class": "llllIIIIll1",
+      "full_name": "IIlllllIlll1.llllIIIIll1",
+      "file_path": "/IIlllllIlll1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IIlllllIlll1.lIIIIlllllIlll1": {
+      "package": "IIlllllIlll1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "IIlllllIlll1.lIIIIlllllIlll1",
+      "file_path": "/IIlllllIlll1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "IlIIlllllI1.llllIIIIll1": {
+      "package": "IlIIlllllI1",
+      "class": "llllIIIIll1",
+      "full_name": "IlIIlllllI1.llllIIIIll1",
+      "file_path": "/IlIIlllllI1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "lIIlIIIIlIlII1.llllIIIIll1": {
+      "package": "lIIlIIIIlIlII1",
+      "class": "llllIIIIll1",
+      "full_name": "lIIlIIIIlIlII1.llllIIIIll1",
+      "file_path": "/lIIlIIIIlIlII1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "lIIlIIIIlIlII1.lIIIIlllllIlll1": {
+      "package": "lIIlIIIIlIlII1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "lIIlIIIIlIlII1.lIIIIlllllIlll1",
+      "file_path": "/lIIlIIIIlIlII1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "lIIlIIIIlIlII1.llllIllIl1": {
+      "package": "lIIlIIIIlIlII1",
+      "class": "llllIllIl1",
+      "full_name": "lIIlIIIIlIlII1.llllIllIl1",
+      "file_path": "/lIIlIIIIlIlII1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "lIIlIIIIlIlII1.IlIlllIIlI1": {
+      "package": "lIIlIIIIlIlII1",
+      "class": "IlIlllIIlI1",
+      "full_name": "lIIlIIIIlIlII1.IlIlllIIlI1",
+      "file_path": "/lIIlIIIIlIlII1/IlIlllIIlI1.java",
+      "is_obfuscated": true
+    },
+    "lIIlIIIIlIlII1.IllIIlIIII1": {
+      "package": "lIIlIIIIlIlII1",
+      "class": "IllIIlIIII1",
+      "full_name": "lIIlIIIIlIlII1.IllIIlIIII1",
+      "file_path": "/lIIlIIIIlIlII1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "com.idlmlpugdw.h5_v1_refactor.H5V1Refactor": {
+      "package": "com.idlmlpugdw.h5_v1_refactor",
+      "class": "H5V1Refactor",
+      "full_name": "com.idlmlpugdw.h5_v1_refactor.H5V1Refactor",
+      "file_path": "/com/idlmlpugdw/h5_v1_refactor/H5V1Refactor.java",
+      "is_obfuscated": false
+    },
+    "com.nied.lduvv.Kucopd": {
+      "package": "com.nied.lduvv",
+      "class": "Kucopd",
+      "full_name": "com.nied.lduvv.Kucopd",
+      "file_path": "/com/nied/lduvv/Kucopd.java",
+      "is_obfuscated": false
+    },
+    "IlIllll1.llllIIIIll1": {
+      "package": "IlIllll1",
+      "class": "llllIIIIll1",
+      "full_name": "IlIllll1.llllIIIIll1",
+      "file_path": "/IlIllll1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "IlIllll1.lIIIIlllllIlll1": {
+      "package": "IlIllll1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "IlIllll1.lIIIIlllllIlll1",
+      "file_path": "/IlIllll1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "IlIllll1.llllIllIl1": {
+      "package": "IlIllll1",
+      "class": "llllIllIl1",
+      "full_name": "IlIllll1.llllIllIl1",
+      "file_path": "/IlIllll1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "IlIllll1.IllIIlIIII1": {
+      "package": "IlIllll1",
+      "class": "IllIIlIIII1",
+      "full_name": "IlIllll1.IllIIlIIII1",
+      "file_path": "/IlIllll1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    },
+    "llllIllIl1.llllIIIIll1": {
+      "package": "llllIllIl1",
+      "class": "llllIIIIll1",
+      "full_name": "llllIllIl1.llllIIIIll1",
+      "file_path": "/llllIllIl1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "llllllIlIIIlll1.llllIIIIll1": {
+      "package": "llllllIlIIIlll1",
+      "class": "llllIIIIll1",
+      "full_name": "llllllIlIIIlll1.llllIIIIll1",
+      "file_path": "/llllllIlIIIlll1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "llIIIIlIlllIII1.llllIIIIll1": {
+      "package": "llIIIIlIlllIII1",
+      "class": "llllIIIIll1",
+      "full_name": "llIIIIlIlllIII1.llllIIIIll1",
+      "file_path": "/llIIIIlIlllIII1/llllIIIIll1.java",
+      "is_obfuscated": true
+    },
+    "llIIIIlIlllIII1.lIIIIlllllIlll1": {
+      "package": "llIIIIlIlllIII1",
+      "class": "lIIIIlllllIlll1",
+      "full_name": "llIIIIlIlllIII1.lIIIIlllllIlll1",
+      "file_path": "/llIIIIlIlllIII1/lIIIIlllllIlll1.java",
+      "is_obfuscated": true
+    },
+    "llIIIIlIlllIII1.llllIllIl1": {
+      "package": "llIIIIlIlllIII1",
+      "class": "llllIllIl1",
+      "full_name": "llIIIIlIlllIII1.llllIllIl1",
+      "file_path": "/llIIIIlIlllIII1/llllIllIl1.java",
+      "is_obfuscated": true
+    },
+    "llIIIIlIlllIII1.IllIIlIIII1": {
+      "package": "llIIIIlIlllIII1",
+      "class": "IllIIlIIII1",
+      "full_name": "llIIIIlIlllIII1.IllIIlIIII1",
+      "file_path": "/llIIIIlIlllIII1/IllIIlIIII1.java",
+      "is_obfuscated": true
+    }
+  },
+  "packages": {
+    "IlIllIlllIllI1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1"
+      ],
+      "type": "obfuscated"
+    },
+    "IlIlIIIlIlIlll1": {
+      "files": [
+        "IIlIllIIll1",
+        "lIllIIIlIl1",
+        "IlIllIlllIllI1",
+        "llllIIIIll1",
+        "llllllIlIIIlll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IlIlllIIlI1",
+        "IlIlIIlIII1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "IlIIIlIlIlIII1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "lIIIIlllllIlll1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "lIllIlIll1": {
+      "files": [
+        "lIllIIIlIl1",
+        "IlIllIlllIllI1",
+        "llllIIIIll1",
+        "llllllIlIIIlll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IlIlllIIlI1",
+        "IlIlIIlIII1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "IllIlIllll1": {
+      "files": [
+        "IIlIllIIll1",
+        "lIllIIIlIl1",
+        "IlIllIlllIllI1",
+        "llllIIIIll1",
+        "llllllIlIIIlll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IlIlllIIlI1",
+        "IlIlIIlIII1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "IIlIIllll1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IlIlllIIlI1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "IlIlllIIlI1": {
+      "files": [
+        "lIIIIlllllIlll1",
+        "llllIllIl1"
+      ],
+      "type": "obfuscated"
+    },
+    "IllIIlIIII1": {
+      "files": [
+        "llllIIIIll1"
+      ],
+      "type": "obfuscated"
+    },
+    "IlIlIIlIII1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "lllIlIIIlI1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1"
+      ],
+      "type": "obfuscated"
+    },
+    "lllIlIlllI1": {
+      "files": [
+        "lIllIIIlIl1",
+        "IlIllIlllIllI1",
+        "llllIIIIll1",
+        "llllllIlIIIlll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IlIlllIIlI1",
+        "IlIlIIlIII1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "IlIIIIllllIlI1": {
+      "files": [
+        "IIlIllIIll1",
+        "lIllIIIlIl1",
+        "IlIllIlllIllI1",
+        "llllIIIIll1",
+        "llllllIlIIIlll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IlIlllIIlI1",
+        "IlIlIIlIII1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "llIlIIlll1": {
+      "files": [
+        "llllIIIIll1"
+      ],
+      "type": "obfuscated"
+    },
+    "llIIllIl1": {
+      "files": [
+        "IIlIllIIll1",
+        "lIllIIIlIl1",
+        "IlIllIlllIllI1",
+        "llllIIIIll1",
+        "llllllIlIIIlll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "lllllIllIl1",
+        "IlIllll1",
+        "IlIlllIIlI1",
+        "IlIlIIlIII1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "lllllIllIl1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "lIlllIIIII1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1"
+      ],
+      "type": "obfuscated"
+    },
+    "llllIIIIll1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1"
+      ],
+      "type": "obfuscated"
+    },
+    "lIllIIIlIl1": {
+      "files": [
+        "IIlIllIIll1",
+        "lIllIIIlIl1",
+        "IlIllIlllIllI1",
+        "llllIIIIll1",
+        "IlIIlllllI1",
+        "llIIllIl1",
+        "llllllIlIIIlll1",
+        "IlIlIIIlIlIlll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "llIIIIlIlllIII1",
+        "lllllIllIl1",
+        "IlIllll1",
+        "IlIlllIIlI1",
+        "lllIlIIIlI1",
+        "IIIlIllIlI1",
+        "lIllIlIll1",
+        "IlIlIIlIII1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "IIIlIllIlI1": {
+      "files": [
+        "lIllIIIlIl1",
+        "IlIllIlllIllI1",
+        "llllIIIIll1",
+        "llllllIlIIIlll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IlIlllIIlI1",
+        "IlIlIIlIII1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "lIIlllIIIlllII1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "IIlIllIIll1": {
+      "files": [
+        "llllIIIIll1"
+      ],
+      "type": "obfuscated"
+    },
+    "IllllIllllll1": {
+      "files": [
+        "llllIIIIll1"
+      ],
+      "type": "obfuscated"
+    },
+    "IIlllllIlll1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1"
+      ],
+      "type": "obfuscated"
+    },
+    "IlIIlllllI1": {
+      "files": [
+        "llllIIIIll1"
+      ],
+      "type": "obfuscated"
+    },
+    "lIIlIIIIlIlII1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IlIlllIIlI1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "IlIllll1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    },
+    "llllIllIl1": {
+      "files": [
+        "llllIIIIll1"
+      ],
+      "type": "obfuscated"
+    },
+    "llllllIlIIIlll1": {
+      "files": [
+        "llllIIIIll1"
+      ],
+      "type": "obfuscated"
+    },
+    "llIIIIlIlllIII1": {
+      "files": [
+        "llllIIIIll1",
+        "lIIIIlllllIlll1",
+        "llllIllIl1",
+        "IllIIlIIII1"
+      ],
+      "type": "obfuscated"
+    }
+  },
+  "fields": {
+    "IlIllIlllIllI1.llllIIIIll1": {
+      "f238llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIllIlllIllI1.lIIIIlllllIlll1": {
+      "f227lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f228llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f226llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f229IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f230IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "EnumC0007lIIIIlllllIlll1": {
+        "original": "IlIllIlllIllI1.lIIIIlllllIlll1$lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "f231llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f232lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f233llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f234IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "final": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f236llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f237lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIlIIIlIlIlll1.IIlIllIIll1": {
+      "f132lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f139lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f131llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f133llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f134IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f135IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f136IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f137llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f138IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f140IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f141IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f142lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f143IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f146IlIlIIIlIlIlll1": {
+        "original": "IlIlIIIlIlIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f144llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f145lIllIlIll1": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "run": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIlIIIlIlIlll1.llllllIlIIIlll1": {
+      "f156llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f157lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f158llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIlIIIlIlIlll1.lIIIIlllllIlll1": {
+      "f154llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f155lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIlIIIlIlIlll1.IlIlllIIlI1": {
+      "call": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "merged with bridge method [inline-methods]"
+      }
+    },
+    "IlIIIlIlIlIII1.llllIIIIll1": {
+      "f99llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f100lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f101llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f102IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f103IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f104IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f105llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f106IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f107lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f108IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f109IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "final": {
+        "original": "llIIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f110lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f111IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f112llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f113lIllIlIll1": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f114IlIlIIIlIlIlll1": {
+        "original": "IlIlIIIlIlIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f115IIIlIllIlI1": {
+        "original": "IIIlIllIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "C0001llllIIIIll1": {
+        "original": "IlIIIlIlIlIII1.llllIIIIll1$llllIIIIll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "f117llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f118lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f119llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f120IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f121IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f122IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f123llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f124IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f125lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f126IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIIIlIlIlIII1.llllIllIl1": {
+      "f127llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f128lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIIIlIlIlIII1.IllIIlIIII1": {
+      "f95llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f96lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f97llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f98IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIIIIlllllIlll1.llllIIIIll1": {
+      "f331llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f332lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f333llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f334IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f335IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f336IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f337IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f338lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f339llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f340IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f341IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f342IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f343llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f344IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f345lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f346llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f347lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f348IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f349llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f350IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f351lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f352llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f353IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f354IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIIIIlllllIlll1.IllIIlIIII1": {
+      "f330llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIlIll1.llllIIIIll1": {
+      "f545IllIlIllll1": {
+        "original": "IllIlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f546llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f547lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f548llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f549IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f550IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f551IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f552llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f553IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f554lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f557lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f558IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f559llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f560lIllIlIll1": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f561IlIlIIIlIlIlll1": {
+        "original": "IlIlIIIlIlIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f562IIIlIllIlI1": {
+        "original": "IIIlIllIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f563llIIllIl1": {
+        "original": "llIIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f564lllIlIIIlI1": {
+        "original": "lllIlIIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f565lIlllIIIII1": {
+        "original": "lIlllIIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f566lIIlIIIIlIlII1": {
+        "original": "lIIlIIIIlIlII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "C0013llllIIIIll1": {
+        "original": "lIllIlIll1.llllIIIIll1$llllIIIIll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "run": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f569llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIlIll1.llllllIlIIIlll1": {
+      "f588IllllIllllll1": {
+        "original": "IllllIllllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "run": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIlIll1.lIIIIlllllIlll1": {
+      "f488llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f489lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f490llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f491IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f492IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f493IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f494llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f495llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f496lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f497llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f498IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f499IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f500IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f501llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f502IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f503lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f504IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f505IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f506lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f507IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f508lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f509llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f510IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "final": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f512llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f513llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f514lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f515llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "C0012lIIIIlllllIlll1": {
+        "original": "lIllIlIll1.lIIIIlllllIlll1$lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "f516llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f517lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f518llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f519IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f520IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f521IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f522llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f523IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f524lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f525llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f526lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f527llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f528IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f529llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f530lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f531llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f532IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f533IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f534IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f535llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f536IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f537lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f538IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f539IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f540lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f541IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f542llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f543lIllIlIll1": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f544IlIlIIIlIlIlll1": {
+        "original": "IlIlIIIlIlIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIlIll1.llllIllIl1": {
+      "f579llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f580lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f581llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f582IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f583IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f585llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f586IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIlIll1.IlIlllIIlI1": {
+      "f474IllllIllllll1": {
+        "original": "IllllIllllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIlIll1.IlIlIIlIII1": {
+      "f462llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f463lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f464llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f465IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "RunnableC0011llllIIIIll1": {
+        "original": "lIllIlIll1.IlIlIIlIII1$llllIIIIll1$llllIIIIll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "run": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIlIll1.IllIIlIIII1": {
+      "f476llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f477lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f478llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f479IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f480IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f481IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f482llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "run": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IllIlIllll1.IIlIllIIll1": {
+      "llIIllIl1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f296lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IllIlIllll1.lIllIIIlIl1": {
+      "f303llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IllIlIllll1.IlIllIlllIllI1": {
+      "f298llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IllIlIllll1.llllIIIIll1": {
+      "f304lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f305llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IllIlIllll1.llllllIlIIIlll1": {
+      "f308IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f309llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IllIlIllll1.lIIIIlllllIlll1": {
+      "f301lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f302llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IllIlIllll1.llllIllIl1": {
+      "f306lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f307llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IllIlIllll1.IlIlllIIlI1": {
+      "f299llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IllIlIllll1.IlIlIIlIII1": {
+      "f297llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IllIlIllll1.IllIIlIIII1": {
+      "f300llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IIlIIllll1.llllIIIIll1": {
+      "f59llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f60IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IIlIIllll1.lIIIIlllllIlll1": {
+      "f57llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f58lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IIlIIllll1.llllIllIl1": {
+      "llllIIIIll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "merged with bridge method [inline-methods]"
+      }
+    },
+    "IIlIIllll1.IlIlllIIlI1": {
+      "f35IIlllllIlll1": {
+        "original": "IIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f37IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f38llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f39lIllIlIll1": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f40IlIlIIIlIlIlll1": {
+        "original": "IlIlIIIlIlIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f41IIIlIllIlI1": {
+        "original": "IIIlIllIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f42llIIllIl1": {
+        "original": "llIIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f43lllIlIIIlI1": {
+        "original": "lllIlIIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f44lIlllIIIII1": {
+        "original": "lIlllIIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f45lIIlIIIIlIlII1": {
+        "original": "lIIlIIIIlIlII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f46IllIlIllll1": {
+        "original": "IllIlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f47lIIlllIIIlllII1": {
+        "original": "lIIlllIIIlllII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f48IllllIllllll1": {
+        "original": "IllllIllllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f49IlIIIIllllIlI1": {
+        "original": "IlIIIIllllIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f50lllIlIlllI1": {
+        "original": "lllIlIlllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "final": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f34llIlIIlll1": {
+        "original": "llIlIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f52llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "C0000llllIIIIll1": {
+        "original": "IIlIIllll1.IlIlllIIlI1$llllIIIIll1$llllIIIIll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "uncaughtException": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IIlIIllll1.IllIIlIIII1": {
+      "f56llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIlllIIlI1.lIIIIlllllIlll1": {
+      "f243IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f241lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f240llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f242llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f244IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f245IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "RunnableC0008lIIIIlllllIlll1": {
+        "original": "IlIlllIIlI1.lIIIIlllllIlll1$lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "run": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIlllIIlI1.llllIllIl1": {
+      "f260IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f261llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f262lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f263llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f264IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f265IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f266IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f267llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f269lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "run": {
+        "original": "IlIlllIIlI1.llllIllIl1$llllIllIl1$lIIIIlllllIlll1 */\n        /* loaded from: classes.jar:IlIlllIIlI1/llllIllIl1$llllIllIl1$lIIIIlllllIlll1.class */\n        public class lIIIIlllllIlll1 implements Runnable {\n\n            /* renamed from: llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "C0009llllIllIl1": {
+        "original": "IlIlllIIlI1.llllIllIl1$llllIllIl1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      }
+    },
+    "IlIlIIlIII1.llllIIIIll1": {
+      "f211IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f212IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f213llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f214lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f215llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f216llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f217lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f218llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "Map": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "C0006llllIIIIll1": {
+        "original": "IlIlIIlIII1.llllIIIIll1$llllIIIIll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "f220llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f221lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIlIIlIII1.lIIIIlllllIlll1": {
+      "f188IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f189llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f190lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "IlIlIIlIII1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f193IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f194IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f195llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "boolean": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "IllIIlIIII1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f192IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f198llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f199lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f200llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f201IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f202IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "RunnableC0005lIIIIlllllIlll1": {
+        "original": "IlIlIIlIII1.lIIIIlllllIlll1$lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "run": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIlIIlIII1.llllIllIl1": {
+      "f222IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f223llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f224lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f225llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIlIIlIII1.IllIIlIIII1": {
+      "f159IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f160IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f161lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f162IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f163llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f164lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f165llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f166IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f167IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f168IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f169llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f171lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "RunnableC0002IllIIlIIII1": {
+        "original": "IlIlIIlIII1.IllIIlIIII1$IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "run": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "RunnableC0003IllIIlIIII1": {
+        "original": "IlIlIIlIII1.IllIIlIIII1$llllIIIIll1$IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "RunnableC0004llllIIIIll1": {
+        "original": "IlIlIIlIII1.IllIIlIIII1$llllIIIIll1$llllIIIIll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      }
+    },
+    "lllIlIIIlI1.lIIIIlllllIlll1": {
+      "f748IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f749llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f750lIllIlIll1": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f751IlIlIIIlIlIlll1": {
+        "original": "IlIlIIIlIlIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f752IIIlIllIlI1": {
+        "original": "IIIlIllIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f753llIIllIl1": {
+        "original": "llIIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f754lllIlIIIlI1": {
+        "original": "lllIlIIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f755lIlllIIIII1": {
+        "original": "lIlllIIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f757IllIlIllll1": {
+        "original": "IllIlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f758lIIlllIIIlllII1": {
+        "original": "lIIlllIIIlllII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f759IllllIllllll1": {
+        "original": "IllllIllllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f760IlIIIIllllIlI1": {
+        "original": "IlIIIIllllIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "RunnableC0016lIIIIlllllIlll1": {
+        "original": "lllIlIIIlI1.lIIIIlllllIlll1$lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "f762llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lllIlIlllI1.llllllIlIIIlll1": {
+      "f768llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f769lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lllIlIlllI1.IlIlllIIlI1": {
+      "f765llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f766IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lllIlIlllI1.IllIIlIIII1": {
+      "f767llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIIIIllllIlI1.llllllIlIIIlll1": {
+      "f89llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f87llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f90IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f91IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f92IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f93llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "final": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIIIIllllIlI1.lIIIIlllllIlll1": {
+      "f67IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f68IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f69lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f70IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f71llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f72lIllIlIll1": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f73IlIlIIIlIlIlll1": {
+        "original": "IlIlIIIlIlIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f74IIIlIllIlI1": {
+        "original": "IIIlIllIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f75llIIllIl1": {
+        "original": "llIIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f76lllIlIIIlI1": {
+        "original": "lllIlIIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f77lIlllIIIII1": {
+        "original": "lIlllIIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f78lIIlIIIIlIlII1": {
+        "original": "lIIlIIIIlIlII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f79IllIlIllll1": {
+        "original": "IllIlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f80lIIlllIIIlllII1": {
+        "original": "lIIlllIIIlllII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f81IllllIllllll1": {
+        "original": "IllllIllllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f82IlIIIIllllIlI1": {
+        "original": "IlIIIIllllIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f83lllIlIlllI1": {
+        "original": "lllIlIlllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f84llIlIIlll1": {
+        "original": "llIlIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f85IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f86lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "llIIllIl1.lIllIIIlIl1": {
+      "f700lIIlIIIIlIlII1": {
+        "original": "lIIlIIIIlIlII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f701IllIlIllll1": {
+        "original": "IllIlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f702lIIlllIIIlllII1": {
+        "original": "lIIlllIIIlllII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "final": {
+        "original": "IllllIllllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f704llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f705lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f706llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f707IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f708IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f710llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "lIIlIIIIlIlII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f712lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f715lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f717llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f718lIllIlIll1": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f719IlIlIIIlIlIlll1": {
+        "original": "IlIlIIIlIlIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f720IIIlIllIlI1": {
+        "original": "IIIlIllIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f721llIIllIl1": {
+        "original": "llIIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f722lllIlIIIlI1": {
+        "original": "lllIlIIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f723lIlllIIIII1": {
+        "original": "lIlllIIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "llIIllIl1.llllIIIIll1": {
+      "f724IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f725lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f726lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f727llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f728IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f729IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f730IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f731llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f732IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f733lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f734IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "RunnableC0015llllIIIIll1": {
+        "original": "llIIllIl1.llllIIIIll1$llllIIIIll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "f735llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "llIIllIl1.llllllIlIIIlll1": {
+      "lIIIIlllllIlll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "llIIllIl1.lIIIIlllllIlll1": {
+      "f699llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "llIIllIl1.llllIllIl1": {
+      "f737IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f738llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f739lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f740llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f741IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f742IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f743IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f744llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "final": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "llIIllIl1.IllIIlIIII1": {
+      "f685llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f687llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f689llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f690IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f691IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f692IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f693llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f694IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f695lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f696IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f697IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f698lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "final": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f684IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lllllIllIl1.llllIIIIll1": {
+      "f796llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lllllIllIl1.lIIIIlllllIlll1": {
+      "f773llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f774llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f775lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f776llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f777IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f778IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "boolean": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "RunnableC0017lIIIIlllllIlll1": {
+        "original": "lllllIllIl1.lIIIIlllllIlll1$lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "run": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lllllIllIl1.llllIllIl1": {
+      "f797IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f798llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f799lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f800llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f801IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "boolean": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "run": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lllllIllIl1.IllIIlIIII1": {
+      "f770llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f771lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "final": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIlllIIIII1.llllIIIIll1": {
+      "f617llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f618lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIlllIIIII1.lIIIIlllllIlll1": {
+      "f595llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f596lIllIlIll1": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f597IlIlIIIlIlIlll1": {
+        "original": "IlIlIIIlIlIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f598IIIlIllIlI1": {
+        "original": "IIIlIllIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f599llIIllIl1": {
+        "original": "llIIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f600lllIlIIIlI1": {
+        "original": "lllIlIIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f601lIlllIIIII1": {
+        "original": "lIlllIIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "final": {
+        "original": "lIIlIIIIlIlII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f603llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f604IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f605IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f606IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f608IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f609lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f610IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f611IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f612lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f613IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f614llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f615lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.IIlIllIIll1": {
+      "f388llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f389lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f390llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.lIllIIIlIl1": {
+      "f420llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f421lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f422llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.IlIllIlllIllI1": {
+      "f401llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f402lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f403llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f404IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f405IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f406IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.llllIIIIll1": {
+      "f441llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f442lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f443llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f444IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f445IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f446IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f447llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f448IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f449lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f450IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f451IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f452lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f453IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f454llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f455lIllIlIll1": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.llIIllIl1": {
+      "f426llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f427lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f428llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f429IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f430IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f431IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f432llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.llllllIlIIIlll1": {
+      "f458llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f459lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f460llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f461IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.IlIlIIIlIlIlll1": {
+      "f391llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f392lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f393llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.lIIIIlllllIlll1": {
+      "f416llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f417lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f418llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f419IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.llllIllIl1": {
+      "f456llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f457lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.IlIllll1": {
+      "f410llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f411lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f412llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.IlIlllIIlI1": {
+      "f407llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f408lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f409llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.lllIlIIIlI1": {
+      "f433llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f434lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f435llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f436IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f437IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f438IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f439llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f440IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.IIIlIllIlI1": {
+      "f380llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f381lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f382llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f383IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f384IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f385IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f386llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f387IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.lIllIlIll1": {
+      "f423llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f424lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f425llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.IlIlIIlIII1": {
+      "f394llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f395lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f396llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f397IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f398IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f399IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f400llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIllIIIlIl1.IllIIlIIII1": {
+      "f413llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f414lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f415llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IIIlIllIlI1.lIllIIIlIl1": {
+      "f14llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f15lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f16llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f17IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f18IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f19IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f20llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f21IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f22lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f23llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f24llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f25lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f26llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f27IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f28IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f29IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f30llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f31llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f32lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f33llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IIIlIllIlI1.lIIIIlllllIlll1": {
+      "f13llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IIIlIllIlI1.IlIlIIlIII1": {
+      "f0llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f1lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f2llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IIIlIllIlI1.IllIIlIIII1": {
+      "f3IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f4IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f5llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f6llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f7lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f8llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f9IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f10llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "onImageAvailable": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "lIIlllIIIlllII1.llllIllIl1": {
+      "f377llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f378llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f379lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IIlIllIIll1.llllIIIIll1": {
+      "f61llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f62lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f63llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "string_resolver.Constants": {
+      "f249llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f250lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f251llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f252IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f253IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f254IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f255llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f256IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f257lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f258IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f259IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "string_resolver.ObfuscatedStringResolver": {
+      "ObfuscatedStringResolver": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IllllIllllll1.llllIIIIll1": {
+      "f310IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f311lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f312IIlIllIIll1": {
+        "original": "IIlIllIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f313IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f314lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f315IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f316llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f317lIllIlIll1": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f318IlIlIIIlIlIlll1": {
+        "original": "IlIlIIIlIlIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f319llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f320lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f321llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f322IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f323IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f324IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f325llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IIlllllIlll1.lIIIIlllllIlll1": {
+      "f64lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f65llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f66llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIIlllllI1.llllIIIIll1": {
+      "f129llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f130lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "com.idlmlpugdw.h5_v1_refactor.H5V1Refactor": {
+      "run": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "com.nied.lduvv.Kucopd": {
+      "run": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIllll1.llllIIIIll1": {
+      "f283llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f284lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f285llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f286IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f287IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f288IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f289llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f290IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIllll1.lIIIIlllllIlll1": {
+      "f281llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f282lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIllll1.llllIllIl1": {
+      "f291IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f292llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f293lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f294llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "IlIllll1.IllIIlIIII1": {
+      "f279lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f280llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "llllllIlIIIlll1.llllIIIIll1": {
+      "f806llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f807lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f808llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f809IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f810IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f811IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f812llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f813IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "llIIIIlIlllIII1.llllIIIIll1": {
+      "f664llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f665lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f666llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f667IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f668IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f669IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f670llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f671IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "llIIIIlIlllIII1.lIIIIlllllIlll1": {
+      "f657llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "EglBase": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f659llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f660IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f661IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "initDecode": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "llIIIIlIlllIII1.llllIllIl1": {
+      "f672llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f673lIIIIlllllIlll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f674llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f675IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f676IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f677IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f678llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f679IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f680lIllIIIlIl1": {
+        "original": "lIllIIIlIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "run": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f683llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    },
+    "llIIIIlIlllIII1.IllIIlIIII1": {
+      "f619llllIIIIll1": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "lIllIlIll1": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f621llllIllIl1": {
+        "original": "llllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f622IllIIlIIII1": {
+        "original": "IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f623IlIlllIIlI1": {
+        "original": "IlIlllIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f624IlIllIlllIllI1": {
+        "original": "IlIllIlllIllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f625llllllIlIIIlll1": {
+        "original": "llllllIlIIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f626IlIlIIlIII1": {
+        "original": "IlIlIIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f629IlIllll1": {
+        "original": "IlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f630lllllIllIl1": {
+        "original": "lllllIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f631IlIIlllllI1": {
+        "original": "IlIIlllllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f632llIIIIlIlllIII1": {
+        "original": "llIIIIlIlllIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f633lIllIlIll1": {
+        "original": "lIllIlIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f634IlIlIIIlIlIlll1": {
+        "original": "IlIlIIIlIlIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f635IIIlIllIlI1": {
+        "original": "IIIlIllIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f636llIIllIl1": {
+        "original": "llIIllIl1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f637lllIlIIIlI1": {
+        "original": "lllIlIIIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f638lIlllIIIII1": {
+        "original": "lIlllIIIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f639lIIlIIIIlIlII1": {
+        "original": "lIIlIIIIlIlII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f640IllIlIllll1": {
+        "original": "IllIlIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f641lIIlllIIIlllII1": {
+        "original": "lIIlllIIIlllII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f642IllllIllllll1": {
+        "original": "IllllIllllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f643IlIIIIllllIlI1": {
+        "original": "IlIIIIllllIlI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f644lllIlIlllI1": {
+        "original": "lllIlIlllI1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f645llIlIIlll1": {
+        "original": "llIlIIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f646IIlllllIlll1": {
+        "original": "IIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f647IIlIIllll1": {
+        "original": "IIlIIllll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "f648IlIIIlIlIlIII1": {
+        "original": "IlIIIlIlIlIII1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "final": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "C0014IllIIlIIII1": {
+        "original": "llIIIIlIlllIII1.IllIIlIIII1$IllIIlIIII1",
+        "type": "field",
+        "reason": "collision with other inner class name"
+      },
+      "onCre": {
+        "original": "llllIIIIll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      },
+      "onCreateSuccess": {
+        "original": "lIIIIlllllIlll1",
+        "type": "field",
+        "reason": "collision with root package name"
+      }
+    }
+  },
+  "statistics": {
+    "total_files": 184,
+    "obfuscated_files": 145,
+    "clear_files": 39
+  },
+  "package_usage": {
+    "c13.nim5.ez8.h5_proto.UpdateEventRequest": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1"
+    ],
+    "c13.nim5.ez8.h5_proto.PluginInfo": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.LocalPluginInfo": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.Vector2": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1"
+    ],
+    "c13.nim5.ez8.h5_proto.H5Lite": [
+      "IlIlllIIlI1.IllIIlIIII1"
+    ],
+    "c13.nim5.ez8.h5_proto.DeviceInfo": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.DllpgdLiteSDK": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1"
+    ],
+    "c13.nim5.ez8.h5_proto.Log": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.UpdateLogRequest": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1"
+    ],
+    "c13.nim5.ez8.h5_proto.Event": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.GetConfigResponse": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.JsonObjectUtils": [
+      "llllIIIIll1.lIIIIlllllIlll1",
+      "IlIlllIIlI1.IllIIlIIII1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.CommonRequest": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1"
+    ],
+    "c13.nim5.ez8.h5_proto.HttpGatewayClient": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "lIIlllIIIlllII1.llllIllIl1",
+      "llllIIIIll1.llllIIIIll1",
+      "IlIlIIIlIlIlll1.IIlIllIIll1"
+    ],
+    "c13.nim5.ez8.h5_proto.Atom": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.CommonResponse": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.DllpgdConfig": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.Error": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.UpdateSignalingStatusResponse": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.CheckSignalingPluginStartResponse": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.ScrollEvent": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.Pong": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.UpdateSignalingStatusRequest": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.CheckSignalingPluginStartRequest": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.SDPAnswer": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.TextInput": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.SignalingRequest": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.ConnectionStatus": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.Ping": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.ICECandidate": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.Done": [
+      "lIllIIIlIl1.lllllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.ControlCommand": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.SignalingResponse": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.SDPOffer": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1",
+      "lIIlllIIIlllII1.llllIllIl1"
+    ],
+    "c13.nim5.ez8.h5_proto.signaling.ClickEvent": [
+      "IlIlllIIlI1.IllIIlIIII1",
+      "IllIIlIIII1.llllIIIIll1",
+      "lIllIIIlIl1.lllllIllIl1"
+    ],
+    "com.idlmlpugdw.h5_v1_refactor.H5V1Refactor": [
+      "IlIlllIIlI1.llllIllIl1"
+    ],
+    "com.nied.lduvv.Kucopd": [
+      "IlIlllIIlI1.llllIllIl1"
+    ]
+  }
+}
