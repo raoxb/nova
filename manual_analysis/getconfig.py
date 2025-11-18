@@ -216,9 +216,16 @@ def get_config(device_id=None, timeout=10):
         response = requests.post(url, headers=headers, data=request_bytes, timeout=timeout)
 
         if response.status_code == 200:
-            # 解密响应
-            decrypted = DllpgdClient.call_api_decrypt(response.content)
-            return True, response.status_code, decrypted
+            # 尝试解密响应（服务器可能返回加密或未加密的数据）
+            try:
+                decrypted = DllpgdClient.call_api_decrypt(response.content)
+                return True, response.status_code, decrypted
+            except:
+                # 如果解密失败，尝试直接解析为 JSON
+                try:
+                    return True, response.status_code, response.json()
+                except:
+                    return False, response.status_code, {"error": "无法解析响应", "raw": response.text}
         else:
             return False, response.status_code, {"error": response.text}
 
