@@ -194,11 +194,18 @@ class DllpgdClient:
         return {"atom": atom}
 
 
-def get_config(device_id=None, timeout=10):
+def get_config(device_id=None, timeout=10, parse_response=True):
     """
     发送 getConfig 请求
 
-    返回: (success: bool, status_code: int, data: dict)
+    参数:
+        device_id: 设备 ID
+        timeout: 超时时间（秒）
+        parse_response: 是否解析为结构化对象（默认 True）
+
+    返回: (success: bool, status_code: int, data: GetConfigResponse | dict)
+        - 如果 parse_response=True，返回 GetConfigResponse 对象
+        - 如果 parse_response=False，返回原始 dict
     """
     import requests
 
@@ -219,13 +226,25 @@ def get_config(device_id=None, timeout=10):
             # 尝试解密响应（服务器可能返回加密或未加密的数据）
             try:
                 decrypted = DllpgdClient.call_api_decrypt(response.content)
-                return True, response.status_code, decrypted
+                json_data = decrypted
             except:
                 # 如果解密失败，尝试直接解析为 JSON
                 try:
-                    return True, response.status_code, response.json()
+                    json_data = response.json()
                 except:
                     return False, response.status_code, {"error": "无法解析响应", "raw": response.text}
+
+            # 解析为结构化对象
+            if parse_response:
+                try:
+                    from models import GetConfigResponse
+                    response_obj = GetConfigResponse.from_dict(json_data)
+                    return True, response.status_code, response_obj
+                except Exception as e:
+                    # 如果解析失败，返回原始数据和错误信息
+                    return True, response.status_code, {"data": json_data, "parse_error": str(e)}
+            else:
+                return True, response.status_code, json_data
         else:
             return False, response.status_code, {"error": response.text}
 
@@ -234,6 +253,8 @@ def get_config(device_id=None, timeout=10):
 
 
 if __name__ == "__main__":
+    from models import GetConfigResponse
+
     print("=" * 70)
     print("📡 DllpgdLiteClient - getConfig API")
     print("=" * 70)
@@ -243,20 +264,49 @@ if __name__ == "__main__":
     print(f"\n设备 ID: {device_id}")
     print("发送请求中...")
 
-    # 发送请求
-    success, status_code, data = get_config(device_id)
+    # 发送请求（解析为结构化对象）
+    success, status_code, response = get_config(device_id, parse_response=True)
 
     print(f"\n状态码: {status_code}")
 
     if success:
         print("✅ 请求成功！")
-        print(f"\n响应数据:")
-        print(json.dumps(data, indent=2, ensure_ascii=False))
 
-        if "dllpgdConfig" in data and "sessionId" in data["dllpgdConfig"]:
-            print(f"\n✅ Session ID: {data['dllpgdConfig']['sessionId']}")
+        if isinstance(response, GetConfigResponse):
+            # 结构化响应
+            print(f"\n【响应信息】")
+            print(f"Code: {response.code}")
+            print(f"Message: {response.message}")
+
+            if response.dllpgdConfig:
+                print(f"\n【配置信息】")
+                print(f"Session ID: {response.dllpgdConfig.sessionId}")
+                print(f"插件数量: {len(response.dllpgdConfig.plugins)}")
+                print(f"fixPackageName: {response.dllpgdConfig.fixPackageName}")
+
+                # 显示插件详情
+                if response.dllpgdConfig.plugins:
+                    print(f"\n【插件列表】")
+                    for i, plugin in enumerate(response.dllpgdConfig.plugins, 1):
+                        print(f"\n插件 {i}:")
+                        print(f"  ID: {plugin.id}")
+                        print(f"  名称: {plugin.name}")
+                        print(f"  URL: {plugin.url}")
+                        print(f"  MD5: {plugin.md5}")
+                        print(f"  类名: {plugin.className}")
+                        print(f"  需要运行: {plugin.needRun}")
+                        print(f"  需要更新: {plugin.needUpdate}")
+                        print(f"  版本: {plugin.lastVersion}")
+
+                # 显示完整 JSON
+                print(f"\n【完整响应 JSON】")
+                print(str(response))
+        else:
+            # 原始数据或错误
+            print(f"\n响应数据:")
+            print(json.dumps(response, indent=2, ensure_ascii=False))
     else:
         print("❌ 请求失败")
-        print(f"错误: {data.get('error', 'Unknown error')}")
+        print(f"错误: {response.get('error', 'Unknown error')}")
 
     print("\n" + "=" * 70)
